@@ -1,0 +1,12 @@
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Never commit live secrets or generated state (in case someone runs it inside this repo)
+sent-findings.json
+health-state.json
+RADAR_FINDINGS.md
+RADAR_DECISIONS.md
